@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "https://punamzagade.github.io/myweb/static/js/main.d0c23472.js",
+    "index.html": "https://punamzagade.github.io/myweb/index.html",
+    "main.d0c23472.js.map": "https://punamzagade.github.io/myweb/static/js/main.d0c23472.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d0c23472.js"
+  ]
+}
